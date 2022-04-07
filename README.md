@@ -1,4 +1,7 @@
-If one file has been changed in more than one branch, attempting to merge those branches will cause a conflict in that file. This is because the branches have diverged from one another. Had the file only had changes in the new branch, git would see those changes as a continuation of master. It then would have been able to "Fast-forward" and would not have created a conflict.
+# Midterm Project
 
-## Changes to one file in two branches
-  When merging two branches with git, git attempts to reconcile the differences in the files on its own. When it is unable to do so, it flags the conflicts. It is up to you or the person managing the repo to manually  correct these conflicts before the merge can be completed.
+Review project instructions in the index.html file for this directory.
+
+This repo can be cloned or downloaded [here]{https://github.com/bdconradasu/midterm_project}.
+
+CSS Methodology Used: Object-Oriented CSS
